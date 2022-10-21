@@ -1,8 +1,0 @@
-db.ma_collection.updateOne(
-	{_id: ObjectId("s6d6652qaa278gcv41")}, 
-	{$push: 
-		{my_propriety_array: 
-			{$each: ["1", "2"]}
-		}
-	}
-)
