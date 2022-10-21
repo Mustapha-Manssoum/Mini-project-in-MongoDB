@@ -1,0 +1,365 @@
+[
+    {
+        "equipe domicile": "Real Madrid",
+        "equipe exterieur": "FC Barcelone",
+        "competition": "LaLiga",
+        "score domicile": 2,
+        "score exterieur": 3,
+        "joueurs domicile": [
+            {
+                "nom": "Courtois",
+                "prenom": "Thibaut",
+                "note": 7
+            },
+            {
+                "nom": "Carvajal",
+                "prenom": "Daniel",
+                "note": 5
+            },
+            {
+                "nom": "E.Militão",
+                "prenom": "Gabriel",
+                "note": 8
+            },
+            {
+                "nom": "Alaba",
+                "prenom": "David",
+                "note": 7
+            },
+            {
+                "nom": "Mendy",
+                "prenom": "Ferland",
+                "note": 6
+            },
+            {
+                "nom": "Modric",
+                "prenom": "Luka",
+                "note": 8
+            },
+            {
+                "nom": "Camavinga",
+                "prenom": "Eduardo",
+                "note": 7
+            },
+            {
+                "nom": "Asensio",
+                "prenom": "Marco",
+                "note": 8
+            },
+            {
+                "nom": "Paixão de Oliveira",
+                "prenom": "Vinícius",
+                "note": 4
+            },
+            {
+                "nom": "Benzema",
+                "prenom": "Karim",
+                "note": 9
+            },
+            {
+                "nom": "Vázquez",
+                "prenom": "Lucas",
+                "note": 8
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "ter Stegen",
+                "prenom": "Marc-André",
+                "note": 7
+            },
+            {
+                "nom": "Alonso",
+                "prenom": "Marcos",
+                "note": 9
+            },
+            {
+                "nom": "Christensen",
+                "prenom": "Andreas",
+                "note": 7
+            },
+            {
+                "nom": "Araújo",
+                "prenom": "Ronald",
+                "note": 6
+            },
+            {
+                "nom": "Busquets",
+                "prenom": "Sergio",
+                "note": 5
+            },
+            {
+                "nom": "González López",
+                "prenom": "Pedro",
+                "note": 5
+            },
+            {
+                "nom": "Kessie",
+                "prenom": "Franck",
+                "note": 8
+            },
+            {
+                "nom": "de Jong",
+                "prenom": "Frenkie",
+                "note": 9
+            },
+            {
+                "nom": "Dembélé",
+                "prenom": "Ousmane",
+                "note": 6
+            },
+            {
+                "nom": "Lewandowski",
+                "prenom": "Robert",
+                "note": 8
+            },
+            {
+                "nom": "Fati",
+                "prenom": "Ansu",
+                "note": 10
+            }
+        ]
+    },
+    {
+        "equipe domicile": "Manchester City",
+        "equipe exterieur": "Real Madrid",
+        "competition": "Champions League",
+        "score domicile": 2,
+        "score exterieur": 2,
+        "joueurs domicile": [
+            {
+                "nom": "Ortega",
+                "prenom": "Stefan",
+                "note": 8
+            },
+            {
+                "nom": "Porro",
+                "prenom": "Pedro",
+                "note": 5
+            },
+            {
+                "nom": "Walker",
+                "prenom": "Kyle",
+                "note": 7
+            },
+            {
+                "nom": "Stones",
+                "prenom": "John",
+                "note": 9
+            },
+            {
+                "nom": "Gómez",
+                "prenom": "Sergio",
+                "note": 6
+            },
+            {
+                "nom": "Phillips",
+                "prenom": "Kalvin",
+                "note": 7
+            },
+            {
+                "nom": "Grealish",
+                "prenom": "Jack",
+                "note": 4
+            },
+            {
+                "nom": "Phil",
+                "prenom": "Foden",
+                "note": 10
+            },
+            {
+                "nom": "Leo Knight",
+                "prenom": "Benjamin",
+                "note": 7
+            },
+            {
+                "nom": "Poveda",
+                "prenom": "Ian",
+                "note": 9
+            },
+            {
+                "nom": "Mahrez",
+                "prenom": "Riyad",
+                "note": 8
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "Courtois",
+                "prenom": "Thibaut",
+                "note": 9
+            },
+            {
+                "nom": "Carvajal",
+                "prenom": "Daniel",
+                "note": 7
+            },
+            {
+                "nom": "Alaba",
+                "prenom": "David",
+                "note": 8
+            },
+            {
+                "nom": "Rüdiger",
+                "prenom": "Antonio",
+                "note": 4
+            },
+            {
+                "nom": "Kroos",
+                "prenom": "Toni",
+                "note": 9
+            },
+            {
+                "nom": "Vázquez",
+                "prenom": "Lucas",
+                "note": 7
+            },
+            {
+                "nom": "Ceballos",
+                "prenom": "Daniel",
+                "note": 5
+            },
+            {
+                "nom": "Modric",
+                "prenom": "Luka",
+                "note": 6
+            },
+            {
+                "nom": "Benzema",
+                "prenom": "Karim",
+                "note": 8
+            },
+            {
+                "nom": "Díaz Mejía",
+                "prenom": "Mariano",
+                "note": 7
+            },
+            {
+                "nom": "Goes",
+                "prenom": "Rodrygo",
+                "note": 8
+            }
+        ]
+    },
+    {
+        "equipe domicile": "Real Madrid",
+        "equipe exterieur": "PSG",
+        "competition": "Champions League",
+        "score domicile": 2,
+        "score exterieur": 1,
+        "joueurs domicile": [
+            {
+                "nom": "Lunin",
+                "prenom": "Andriy",
+                "note": 8
+            },
+            {
+                "nom": "Carvajal",
+                "prenom": "Daniel",
+                "note": 6
+            },
+            {
+                "nom": "Alaba",
+                "prenom": "David",
+                "note": 7
+            },
+            {
+                "nom": "Vallejo",
+                "prenom": "Jesús",
+                "note": 7
+            },
+            {
+                "nom": "Rüdiger",
+                "prenom": "Antonio",
+                "note": 8
+            },
+            {
+                "nom": "Modric",
+                "prenom": "Luka",
+                "note": 10
+            },
+            {
+                "nom": "Valverde",
+                "prenom": "Federico Santiago",
+                "note": 9
+            },
+            {
+                "nom": "Tchouaméni",
+                "prenom": "Aurélien",
+                "note": 4
+            },
+            {
+                "nom": "Camavinga",
+                "prenom": "Eduardo",
+                "note": 6
+            },
+            {
+                "nom": "Goes",
+                "prenom": "Rodrygo",
+                "note": 9
+            },
+            {
+                "nom": "Hazard",
+                "prenom": "Eden",
+                "note": 8
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "Navas",
+                "prenom": "Keylor ",
+                "note": 5
+            },
+            {
+                "nom": "Hakimi",
+                "prenom": "Achraf",
+                "note": 7
+            },
+            {
+                "nom": "Kimpembe",
+                "prenom": "Presnel",
+                "note": 6
+            },
+            {
+                "nom": "Bernat",
+                "prenom": "Juan",
+                "note": 8
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Nuno",
+                "note": 9
+            },
+            {
+                "nom": "Paredes",
+                "prenom": "Leandro",
+                "note": 3
+            },
+            {
+                "nom": "Pereira",
+                "prenom": "Danilo",
+                "note": 9
+            },
+            {
+                "nom": "Herrera",
+                "prenom": "Ander",
+                "note": 6
+            },
+            {
+                "nom": "Soler",
+                "prenom": "Carlos",
+                "note": 7
+            },
+            {
+                "nom": "Mbappé",
+                "prenom": "Kylian",
+                "note": 9
+            },
+            {
+                "nom": "Kalimuendo",
+                "prenom": "Arnaud",
+                "note": 8
+            }
+        ]
+    }
+]

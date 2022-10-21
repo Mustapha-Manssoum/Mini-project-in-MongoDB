@@ -1,0 +1,141 @@
+﻿{
+    "equipe domicile": "Manchester City",
+    "equipe exterieur": "PSG",
+    "competition": "Champions League",
+    "score domicile": 2,
+    "score exterieur": "1",
+    "joueurs domicile": [
+        {
+            "nom": "Santana de Moraes", 
+   	    "prenom": "Ederson",
+            "note": 9
+        },
+
+	{
+            "nom": "Walker", 
+   	    "prenom": "Kyle",
+            "note": 5
+        },
+
+	{
+            "nom": "Stones", 
+   	    "prenom": "John",
+            "note": 6
+        },
+
+	{
+            "nom": "Dias", 
+   	    "prenom": "Rúben",
+            "note": 7
+        },
+
+	{
+            "nom": "Cancelo", 
+   	    "prenom": "João ",
+            "note": 5
+        },
+
+	{
+            "nom": "Gündoğan", 
+   	    "prenom": "İlkay",
+            "note": 8
+        },
+
+	{
+            "nom": "Hernández Cascante", 
+   	    "prenom": "Rodrigo",
+            "note": 7
+        },
+
+	{
+            "nom": "Poveda", 
+   	    "prenom": "Ian",
+            "note": 4
+        },
+
+	{
+            "nom": "Mahrez", 
+   	    "prenom": "Riyad",
+            "note": 10
+        },
+
+	{
+            "nom": "Delap", 
+   	    "prenom": "Liam",
+            "note": 5
+        },
+
+	{
+            "nom": "Silva", 
+   	    "prenom": "Bernardo",
+            "note": 4
+        }
+    ],
+    "joueurs exterieur": [
+        {
+            "nom": "Neymar", 
+   	    "prenom": "Junior",
+            "note": 10
+        },
+
+	{
+            "nom": "Mbappé", 
+   	    "prenom": "Kylian",
+            "note": 10
+        },
+
+	{
+            "nom": "Messi", 
+   	    "prenom": "Lionel",
+            "note": 10
+        },
+
+	{
+            "nom": "Gueye", 
+   	    "prenom": "Idrissa",
+            "note": 7
+        },
+
+	{
+            "nom": "Paredes", 
+   	    "prenom": "Leandro",
+            "note": 8
+        },
+
+	{
+            "nom": "Hererra", 
+   	    "prenom": "Ander",
+            "note": 6
+        },
+
+	{
+            "nom": "Navas", 
+   	    "prenom": "Keylor",
+            "note": 5
+        },
+
+	{
+            "nom": "Mendes", 
+   	    "prenom": "Nuno",
+            "note": 9
+        },
+
+	{
+            "nom": "Presnel", 
+   	    "prenom": "Kimpembe",
+            "note": 8
+        },
+
+	{
+            "nom": "Marquinhos", 
+   	    "prenom": "Marcos",
+            "note": 7
+        },
+
+	{
+            "nom": "Hakimi", 
+   	    "prenom": "Achraf",
+            "note": 6
+        }
+    ]
+}

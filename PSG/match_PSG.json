@@ -1,0 +1,490 @@
+[
+    {
+        "equipe domicile": "Benfica",
+        "equipe exterieur": "PSG",
+        "competition": "Champions League",
+        "score domicile": 1,
+        "score exterieur": 1,
+        "joueurs domicile": [
+            {
+                "nom": "Vlachodimos",
+                "prenom": "",
+                "note": 9
+            },
+            {
+                "nom": "Bah",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Grimaldo",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Fernández",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Silva",
+                "prenom": "António",
+                "note": 8
+            },
+            {
+                "nom": "Otamendi",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Neres", 
+                "prenom": "David",
+                "note": 6
+            },
+            {
+                "nom": "Florentino", 
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Ramos", 
+                "prenom": "Gonçalo",
+                "note": 5
+            },
+            {
+                "nom": "Rafa", 
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Mário", 
+                "prenom": "João",
+                "note": 6
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "Donnarumma",
+                "prenom": "Gianluigi",
+                "note": 8
+            },
+            {
+                "nom": "Hakimi",
+                "prenom": "Achraf",
+                "note": 7
+            },
+            {
+                "nom": "Pereira",
+                "prenom": "Danilo",
+                "note": 6
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Nuno",
+                "note": 7
+            },
+            {
+                "nom": "Marquinhos",
+                "prenom": "Marcos",
+                "note": 5
+            },
+            {
+                "nom": "Ramos",
+                "prenom": "Sergio",
+                "note": 4
+            },
+            {
+                "nom": "Vitinha",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Verratti",
+                "prenom": "Marco",
+                "note": 8
+            },
+            {
+                "nom": "Mbappé",
+                "prenom": "Kylian",
+                "note": 6
+            },
+            {
+                "nom": "Messi",
+                "prenom": "Lionel",
+                "note": 9
+            },
+            {
+                "nom": "Neymar",
+                "prenom": "Junior",
+                "note": 7
+            }
+        ]
+    },
+
+    {
+        "equipe domicile": "PSG",
+        "equipe exterieur": "Juventus",
+        "competition": "Champions League",
+        "score domicile": 2,
+        "score exterieur": 1,
+        "joueurs domicile": [
+            {
+                "nom": "Donnarumma",
+                "prenom": "Gianluigi",
+                "note": 8
+            },
+            {
+                "nom": "Hakimi",
+                "prenom": "Achraf",
+                "note": 7
+            },
+            {
+                "nom": "Pereira",
+                "prenom": "Danilo",
+                "note": 5
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Nuno",
+                "note": 7
+            },
+            {
+                "nom": "Marquinhos",
+                "prenom": "Marcos",
+                "note": 6
+            },
+            {
+                "nom": "Ramos",
+                "prenom": "Sergio",
+                "note": 7
+            },
+            {
+                "nom": "Vitinha",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Verratti",
+                "prenom": "Marco",
+                "note": 8
+            },
+            {
+                "nom": "Mbappé",
+                "prenom": "Kylian",
+                "note": 9
+            },
+            {
+                "nom": "Messi",
+                "prenom": "Lionel",
+                "note": 8
+            },
+            {
+                "nom": "Neymar",
+                "prenom": "Junior",
+                "note": 8
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "Perin",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Cuadrado",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Kostic",
+                "prenom": "",
+                "note": 5
+            },
+            {
+                "nom": "Danilo",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Bonucci",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Bremer",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Rabiot",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Miretti",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Milik",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Vlahovic",
+                "prenom": "",
+                "note": 9
+            },
+            {
+                "nom": "Paredes",
+                "prenom": "",
+                "note": 8
+            }
+        ]
+    },
+
+    {
+        "equipe domicile": "Olympique Lyonnais",
+        "equipe exterieur": "PSG",
+        "competition": "Ligue 1",
+        "score domicile": 0,
+        "score exterieur": 1,
+        "joueurs domicile": [
+            {
+                "nom": " Lopes",
+                "prenom": "Anthony",
+                "note": 8
+            },
+            {
+                "nom": "Gusto",
+                "prenom": "",
+                "note": 5
+            },
+            {
+                "nom": "Tagliafico",
+                "prenom": "",
+                "note": 5
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Thiago",
+                "note": 7
+            },
+            {
+                "nom": "Lukeba",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Tetê",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Caqueret",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Lacazette",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Dembele",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Toko-Ekambi",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Tolisso",
+                "prenom": "",
+                "note": 7
+            }
+        ],
+            
+        "joueurs exterieur": [
+            {
+                "nom": "Donnarumma",
+                "prenom": "Gianluigi",
+                "note": 7
+            },
+            {
+                "nom": "Hakimi",
+                "prenom": "Achraf",
+                "note": 7
+            },
+            {
+                "nom": "Pereira",
+                "prenom": "Danilo",
+                "note": 5
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Nuno",
+                "note": 7
+            },
+            {
+                "nom": "Marquinhos",
+                "prenom": "Marcos",
+                "note": 6
+            },
+            {
+                "nom": "Ramos",
+                "prenom": "Sergio",
+                "note": 6
+            },
+            {
+                "nom": "Vitinha",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Verratti",
+                "prenom": "Marco",
+                "note": 6
+            },
+            {
+                "nom": "Mbappé",
+                "prenom": "Kylian",
+                "note": 7
+            },
+            {
+                "nom": "Messi",
+                "prenom": "Lionel",
+                "note": 9
+            },
+            {
+                "nom": "Neymar",
+                "prenom": "Junior",
+                "note": 8
+            }
+        ]
+    },
+
+    {
+        "equipe domicile": "PSG",
+        "equipe exterieur": "OGC Nice",
+        "competition": "Ligue 1",
+        "score domicile": 2,
+        "score exterieur": 1,
+        "joueurs domicile": [
+            {
+                "nom": "Donnarumma",
+                "prenom": "Gianluigi",
+                "note": 8
+            },
+            {
+                "nom": "Hakimi",
+                "prenom": "Achraf",
+                "note": 7
+            },
+            {
+                "nom": "Pereira",
+                "prenom": "Danilo",
+                "note": 5
+            },
+            {
+                "nom": "Mendes",
+                "prenom": "Nuno",
+                "note": 7
+            },
+            {
+                "nom": "Marquinhos",
+                "prenom": "Marcos",
+                "note": 6
+            },
+            {
+                "nom": "Ramos",
+                "prenom": "Sergio",
+                "note": 7
+            },
+            {
+                "nom": "Vitinha",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Verratti",
+                "prenom": "Marco",
+                "note": 8
+            },
+            {
+                "nom": "Mbappé",
+                "prenom": "Kylian",
+                "note": 9
+            },
+            {
+                "nom": "Messi",
+                "prenom": "Lionel",
+                "note": 9
+            },
+            {
+                "nom": "Neymar",
+                "prenom": "Junior",
+                "note": 7
+            }
+        ],
+        "joueurs exterieur": [
+            {
+                "nom": "Schmeichel",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Atal",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Bard",
+                "prenom": "",
+                "note": 5
+            },
+            {
+                "nom": "Viti",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "Dante",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Rosario",
+                "prenom": "",
+                "note": 4
+            },
+            {
+                "nom": "Barkley",
+                "prenom": "",
+                "note": 7
+            },
+            {
+                "nom": "diop",
+                "prenom": "",
+                "note": 8
+            },
+            {
+                "nom": "Laborde",
+                "prenom": "",
+                "note": 6
+            },
+            {
+                "nom": "Ramsey",
+                "prenom": "",
+                "note": 9
+            },
+            {
+                "nom": "Lemina",
+                "prenom": "",
+                "note": 8
+            }
+        ]
+    }
+]

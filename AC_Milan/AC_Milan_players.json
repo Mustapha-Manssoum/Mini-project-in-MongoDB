@@ -1,0 +1,226 @@
+[
+  {
+    "nom": "Reina",
+    "prenom": "Pepe",
+    "date de naissance": "31/08/1982",
+    "taille": "188",
+    "poids": "92",
+    "poste": "Gardien"
+  },
+  {
+    "nom": "Tatarusanu",
+    "prenom": "Ciprian",
+    "date de naissance": "09/02/1986",
+    "taille": "198",
+    "poids": "90",
+    "poste": "Gardien"
+  },
+  {
+    "nom": "Maignan",
+    "prenom": "Mike",
+    "date de naissance": "03/07/1995",
+    "taille": "191",
+    "poids": "89",
+    "poste": "Gardien"
+  },
+  {
+    "nom": "Mirante",
+    "prenom": "Antonio",
+    "date de naissance": "08/07/1983",
+    "taille": "193",
+    "poids": "79",
+    "poste": "Gardien"
+  },
+  {
+    "nom": "Bellanova",
+    "prenom": "Raoul",
+    "date de naissance": "17/05/2000",
+    "taille": "188",
+    "poids": "82",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Calabria",
+    "prenom": "Davide",
+    "date de naissance": "06/12/1996",
+    "taille": "177",
+    "poids": "70",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Ballo-Touré",
+    "prenom": "Fodé",
+    "date de naissance": "03/01/1997",
+    "taille": "182",
+    "poids": "70",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Hernandez",
+    "prenom": "Theo",
+    "date de naissance": "06/10/1997",
+    "taille": "184",
+    "poids": "81",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Dest",
+    "prenom": "Sergino",
+    "date de naissance": "03/11/2000",
+    "taille": "175",
+    "poids": "62",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Kalulu",
+    "prenom": "Pierre",
+    "date de naissance": "05/06/2000",
+    "taille": "179",
+    "poids": "69",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Tomori",
+    "prenom": "Fikayo",
+    "date de naissance": "19/12/1997",
+    "taille": "185",
+    "poids": "75",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Kjaer",
+    "prenom": "Simon",
+    "date de naissance": "26/03/1989",
+    "taille": "190",
+    "poids": "86",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Florenzi",
+    "prenom": "Alessandro",
+    "date de naissance": "11/03/1991",
+    "taille": "173",
+    "poids": "67",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Gabbia",
+    "prenom": "Matteo",
+    "date de naissance": "21/10/1999",
+    "taille": "185",
+    "poids": "78",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Bennacer",
+    "prenom": "Ismael",
+    "date de naissance": "01/12/1997",
+    "taille": "175",
+    "poids": "70",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Diaz",
+    "prenom": "Brahim",
+    "date de naissance": "03/08/1999",
+    "taille": "171",
+    "poids": "59",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Zinedine Adli",
+    "prenom": "Yacine",
+    "date de naissance": "29/07/2000",
+    "taille": "186",
+    "poids": "73",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Tonali",
+    "prenom": "Sandro",
+    "date de naissance": "08/05/2000",
+    "taille": "181",
+    "poids": "79",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Bakayoko",
+    "prenom": "Tiémoué",
+    "date de naissance": "17/08/1994",
+    "taille": "185",
+    "poids": "77",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Leao",
+    "prenom": "Rafael",
+    "date de naissance": "10/06/1999",
+    "taille": "188",
+    "poids": "81",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Krunic",
+    "prenom": "Rade",
+    "date de naissance": "07/10/1993",
+    "taille": "184",
+    "poids": "74",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "Saelemaekers",
+    "prenom": "Alexis",
+    "date de naissance": "27/06/1999",
+    "taille": "180",
+    "poids": "72",
+    "poste": "Milieu"
+  },
+  {
+    "nom": "De Ketelaere",
+    "prenom": "Charles",
+    "date de naissance": "19/12/1997",
+    "taille": "185",
+    "poids": "75",
+    "poste": "Défenseur"
+  },
+  {
+    "nom": "Giroud",
+    "prenom": "Olivier",
+    "date de naissance": "30/09/1986",
+    "taille": "192",
+    "poids": "93",
+    "poste": "Attaquant"
+  },
+  {
+    "nom": "Ibrahimovic",
+    "prenom": "Zlatan",
+    "date de naissance": "03/10/1981",
+    "taille": "195",
+    "poids": "95",
+    "poste": "Attaquant"
+  },
+  {
+    "nom": "Rebic",
+    "prenom": "Ante",
+    "date de naissance": "21/09/1993",
+    "taille": "185",
+    "poids": "78",
+    "poste": "Attaquant"
+  },
+  {
+    "nom": "Lazetic",
+    "prenom": "Marko",
+    "date de naissance": "22/01/2004",
+    "taille": "190",
+    "poids": "80",
+    "poste": "Attaquant"
+  },
+  {
+    "nom": "Origi",
+    "prenom": "Divock",
+    "date de naissance": "18/04/1995",
+    "taille": "185",
+    "poids": "75",
+    "poste": "Attaquant"
+  }
+]

@@ -1,0 +1,186 @@
+[
+	{
+		"nom": "Courtois",
+		"prenom": "Thibaut",
+		"date de naissance": "11/05/1992",
+		"taille": 200,
+		"poids": 96,
+		"poste": "Gardien"
+	},
+	{
+		"nom": "Lunin",
+		"prenom": "Andriy",
+		"date de naissance": "11/02/1999",
+		"taille": 186,
+		"poids": 82,
+		"poste": "Gardien"
+	},
+	{
+		"nom": "Carvajal",
+		"prenom": "Daniel",
+		"date de naissance": "11/01/1992",
+		"taille": 173,
+		"poids": 73,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "E.Militão",
+		"prenom": "Gabriel",
+		"date de naissance": "18/01/1998",
+		"taille": 186,
+		"poids": 78,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Alaba",
+		"prenom": "David",
+		"date de naissance": "24/06/1992",
+		"taille": 180,
+		"poids": 78,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Vallejo",
+		"prenom": "Jesús",
+		"date de naissance": "05/01/1997",
+		"taille": 184,
+		"poids": 79,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Iglesias",
+		"prenom": "José Fernández",
+		"date de naissance": "18/01/1990",
+		"taille": 180,
+		"poids": 76,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Odriozola",
+		"prenom": "Álvaro",
+		"date de naissance": "14/12/1995",
+		"taille": 176,
+		"poids": 66,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Rüdiger",
+		"prenom": "Antonio",
+		"date de naissance": "03/03/1993",
+		"taille": 190,
+		"poids": 86,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Mendy",
+		"prenom": "Ferland",
+		"date de naissance": "08/06/1995",
+		"taille": 180,
+		"poids": 73,
+		"poste": "Défenseur"
+	},
+	{
+		"nom": "Kroos",
+		"prenom": "Toni",
+		"date de naissance": "04/01/1990",
+		"taille": 183,
+		"poids": 76,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Modric",
+		"prenom": "Luka",
+		"date de naissance": "09/09/1985",
+		"taille": 172,
+		"poids": 66,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Camavinga",
+		"prenom": "Eduardo",
+		"date de naissance": "10/11/2002",
+		"taille": 182,
+		"poids": 68,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Valverde",
+		"prenom": "Federico Santiago",
+		"date de naissance": "22/07/1998",
+		"taille": 182,
+		"poids": 78,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Vázquez",
+		"prenom": "Lucas",
+		"date de naissance": "01/07/1991",
+		"taille": 173,
+		"poids": 70,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Tchouaméni",
+		"prenom": "Aurélien",
+		"date de naissance": "27/01/2000",
+		"taille": 187,
+		"poids": 81,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Ceballos",
+		"prenom": "Daniel",
+		"date de naissance": "07/08/1996",
+		"taille": 179,
+		"poids": 70,
+		"poste": "Milieu"
+	},
+	{
+		"nom": "Hazard",
+		"prenom": "Eden",
+		"date de naissance": "07/01/1991",
+		"taille": 175,
+		"poids": 74,
+		"poste": "Attaquant"
+	},
+	{
+		"nom": "Benzema",
+		"prenom": "Karim",
+		"date de naissance": "19/12/1987",
+		"taille": 185,
+		"poids": 81,
+		"poste": "Attaquant"
+	},
+	{
+		"nom": "Asensio",
+		"prenom": "Marco",
+		"date de naissance": "21/01/1996",
+		"taille": 182,
+		"poids": 76,
+		"poste": "Attaquant"
+	},
+	{
+		"nom": "Paixão de Oliveira",
+		"prenom": "Vinícius",
+		"date de naissance": "12/07/2000",
+		"taille": 176,
+		"poids": 73,
+		"poste": "Attaquant"
+	},
+	{
+		"nom": "Goes",
+		"prenom": "Rodrygo",
+		"date de naissance": "09/01/2001",
+		"taille": 174,
+		"poids": 64,
+		"poste": "Attaquant"
+	},
+	{
+		"nom": "Díaz Mejía",
+		"prenom": "Mariano",
+		"date de naissance": "01/08/1993",
+		"taille": 180,
+		"poids": 76,
+		"poste": "Attaquant"
+	}
+]

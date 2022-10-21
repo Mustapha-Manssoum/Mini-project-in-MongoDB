@@ -1,0 +1,33 @@
+{
+    "nom": "FC Barcelone",
+    "couleurs": [
+        "Rouge",
+        "Bleu",
+        "Marron"
+    ],
+    "stade": "Spotify Camp Nou",
+    "effectifs": [
+        "Marc-André ter Stegen",
+        "Iñaki Peña",
+        "Héctor Bellerín",
+        "Gérard Piqué",
+        "Ronald Araújo",
+        "Andreas Christensen",
+        "Alonso Marcos",
+        "Jordi Alba",
+        "Jules Kounde",
+        "Eric García",
+        "Sergio Busquets",
+        "Pedro González López",
+        "Franck Kessie",
+        "Sergi Roberto",
+        "Frenkie de Jong",
+        "Pablo Martin Páez Gavira",
+        "Ousmane Dembélé",
+        "Robert Lewandowski",
+        "Ansu Fati",
+        "Ferran Torres",
+        "Memphis Depay",
+        "Raphael Dias Belloli"
+    ]
+}

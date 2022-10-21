@@ -1,0 +1,123 @@
+[
+  {
+    "equipe domicile": "AC Milan",
+    "equipe exterieur": "FC Barcelone",
+    "competition": "Champions League",
+    "score domicile": 4,
+    "score exterieur": 2,
+    "joueurs domicile": [
+      {
+        "nom": "Maignan",
+        "prenom": "Mike",
+        "note": 6
+      },
+      {
+        "nom": "Hernandez",
+        "prenom": "Theo",
+        "note": 7
+      },
+      {
+        "nom": "Tomori",
+        "prenom": "Fikayo",
+        "note": 6
+      },
+      {
+        "nom": "Kalulu",
+        "prenom": "Pierre",
+        "note": 5
+      },
+      {
+        "nom": "Calabria",
+        "prenom": "Davide",
+        "note": 7
+      },
+      {
+        "nom": "Tonali",
+        "prenom": "Sandro",
+        "note": 7
+      },
+      {
+        "nom": "Bennacer",
+        "prenom": "Ismael",
+        "note": 9
+      },
+      {
+        "nom": "Leao",
+        "prenom": "Rafael",
+        "note": 7
+      },
+      {
+        "nom": "De Ketelaere",
+        "prenom": "Charles",
+        "note": 6
+      },
+      {
+        "nom": "Saelemaekers",
+        "prenom": "Alexis",
+        "note": 8
+      },
+      {
+        "nom": "Giroud",
+        "prenom": "Olivier",
+        "note": 5
+      }
+    ],
+    "joueurs exterieur": [
+      {
+        "nom": "ter Stegen",
+        "prenom": "Marc-André",
+        "note": 5
+      },
+      {
+        "nom": "Alonso",
+        "prenom": "Marcos",
+        "note": 7
+      },
+      {
+        "nom": "Christensen",
+        "prenom": "Andreas",
+        "note": 9
+      },
+      {
+        "nom": "Araújo",
+        "prenom": "Ronald",
+        "note": 4
+      },
+      {
+        "nom": "Busquets",
+        "prenom": "Sergio",
+        "note": 7
+      },
+      {
+        "nom": "González López",
+        "prenom": "Pedro",
+        "note": 3
+      },
+      {
+        "nom": "Kessie",
+        "prenom": "Franck",
+        "note": 5
+      },
+      {
+        "nom": "de Jong",
+        "prenom": "Frenkie",
+        "note": 8
+      },
+      {
+        "nom": "Dembélé",
+        "prenom": "Ousmane",
+        "note": 7
+      },
+      {
+        "nom": "Lewandowski",
+        "prenom": "Robert",
+        "note": 5
+      },
+      {
+        "nom": "Fati",
+        "prenom": "Ansu",
+        "note": 8
+      }
+    ]
+  }
+]

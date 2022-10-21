@@ -1,0 +1,298 @@
+[
+    { 
+        "nom": "Navas", 
+        "prenom": "Keylor ",
+        "date de naissance": "15/12/1986", 
+        "taille": 185,
+        "poids": 80,
+        "poste": "Gardien"
+    },
+    {
+        "nom": "Rico", 
+        "prenom": "Sergio",
+        "date de naissance": "01/09/1993", 
+        "taille": 195,
+        "poids": 90,
+        "poste": "Gardien"
+    },
+    {
+        "nom": "Letellier", 
+        "prenom": "Alexandre",
+        "date de naissance": "11/09/1990", 
+        "taille": 193,
+        "poids": 93,
+        "poste": "Gardien"
+    },
+    {
+        "nom": "Donnarumma", 
+        "prenom": "Gianluigi",
+        "date de naissance": "25/02/1999", 
+        "taille": 196,
+        "poids": 90,
+        "poste": "Gardien"
+    },
+    { 
+        "nom": "Hakimi", 
+        "prenom": "Achraf",
+        "date de naissance": "4/11/1998", 
+        "taille": 181,
+        "poids": 73,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Kimpembe", 
+        "prenom": "Presnel",
+        "date de naissance": "13/08/1995", 
+        "taille": 183,
+        "poids": 67,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Ramos", 
+        "prenom": "Sergio",
+        "date de naissance": "30/03/1986", 
+        "taille": 184,
+        "poids": 82,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Marquinhos", 
+        "prenom": "Marcos",
+        "date de naissance": "14/05/1995", 
+        "taille": 183,
+        "poids": 75,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Bernat", 
+        "prenom": "Juan",
+        "date de naissance": "01/03/1993", 
+        "taille": 177,
+        "poids": 67,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Kurzawa", 
+        "prenom": "Layvin",
+        "date de naissance": "04/09/1992", 
+        "taille": 182,
+        "poids": 74,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Kehrer", 
+        "prenom": "Thilo",
+        "date de naissance": "21/09/1996", 
+        "taille": 186,
+        "poids": 76,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Mendes", 
+        "prenom": "Nuno",
+        "date de naissance": "19/06/2002", 
+        "taille": 176,
+        "poids": 70,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Mukiele", 
+        "prenom": "Nordi",
+        "date de naissance": "01/11/1997", 
+        "taille": 187,
+        "poids": 82,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Bitshiabu", 
+        "prenom": "El Chadaille",
+        "date de naissance": "16/05/2005", 
+        "taille": 196,
+        "poids": 85,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Baldé", 
+        "prenom": "Thierno",
+        "date de naissance": "10/06/2002", 
+        "taille": 182,
+        "poids": 77,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Najeh", 
+        "prenom": "Kaïs",
+        "date de naissance": "23/01/2003", 
+        "taille": 177,
+        "poids": 70,
+        "poste": "Défenseur"
+    },
+    { 
+        "nom": "Verratti", 
+        "prenom": "Marco",
+        "date de naissance": "05/11/1992", 
+        "taille": 165,
+        "poids": 60,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Paredes", 
+        "prenom": "Leandro",
+        "date de naissance": "29/06/1994", 
+        "taille": 180,
+        "poids": 75,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Ruiz", 
+        "prenom": "Fabian",
+        "date de naissance": "03/04/1996", 
+        "taille": 189,
+        "poids": 79,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Rafinha", 
+        "prenom": "",
+        "date de naissance": "12/02/1993", 
+        "taille": 174,
+        "poids": 71,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Pereira", 
+        "prenom": "Danilo",
+        "date de naissance": "09/09/1991", 
+        "taille": 188,
+        "poids": 83,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Vitinha", 
+        "prenom": "",
+        "date de naissance": "13/02/2000", 
+        "taille": 172,
+        "poids": 64,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Sanches", 
+        "prenom": "Renato",
+        "date de naissance": "18/08/1997", 
+        "taille": 176,
+        "poids": 69,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Herrera", 
+        "prenom": "Ander",
+        "date de naissance": "14/08/1989", 
+        "taille": 182,
+        "poids": 71,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Gueye", 
+        "prenom": "Idrissa",
+        "date de naissance": "26/09/1989", 
+        "taille": 174,
+        "poids": 66,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Dina-Ebimbe", 
+        "prenom": "Eric Junior",
+        "date de naissance": "21/11/2000", 
+        "taille": 183,
+        "poids": 77,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Soler", 
+        "prenom": "Carlos",
+        "date de naissance": "02/01/1997", 
+        "taille": 180,
+        "poids": 75,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Zaïre-Emery", 
+        "prenom": "Warren",
+        "date de naissance": "08/03/2006", 
+        "taille": 178,
+        "poids": 70,
+        "poste": "Milieu"
+    },
+    { 
+        "nom": "Gharbi", 
+        "prenom": "Ismaël",
+        "date de naissance": "10/04/2004", 
+        "taille": 173,
+        "poids": 67,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Bitumazala", 
+        "prenom": "Nathan",
+        "date de naissance": "10/12/2002", 
+        "taille": 178,
+        "poids": 69,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Mbappé", 
+        "prenom": "Kylian",
+        "date de naissance": "20/12/1998", 
+        "taille": 178,
+        "poids": 73,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Neymar", 
+        "prenom": "Junior",
+        "date de naissance": "05/02/1992", 
+        "taille": 175,
+        "poids": 68,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Kalimuendo", 
+        "prenom": "Arnaud",
+        "date de naissance": "20/01/2002", 
+        "taille": 178,
+        "poids": 63,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Messi", 
+        "prenom": "Lionel",
+        "date de naissance": "24/06/1987", 
+        "taille": 169,
+        "poids": 67,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Gassama", 
+        "prenom": "Djeidi",
+        "date de naissance": "10/09/2003", 
+        "taille": 175,
+        "poids": 70,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Yansané", 
+        "prenom": "Sekou",
+        "date de naissance": "28/04/2003", 
+        "taille": 184,
+        "poids": 78,
+        "poste": "Attaquant"
+    },
+    { 
+        "nom": "Ekitike", 
+        "prenom": "Hugo",
+        "date de naissance": "20/06/2002", 
+        "taille": 190,
+        "poids": 83,
+        "poste": "Attaquant"
+    }
+]

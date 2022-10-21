@@ -1,0 +1,10 @@
+{ 
+"nom": "PSG", 
+"couleurs": ["Blanc", "Gris", "Bleu"], 
+"stade": "Parc des Princes", 
+"effectifs": ["Keylor Navas", "Sergio Rico", "Alexandre Letellier", "Gianluigi Donnarumma", "Achraf Hakimi", "Presnel Kimpembe", "Sergio Ramos", "Marquinhos", 
+    "Juan Bernat", "Layvin Kurzawa", "Thilo Kehrer", "Nuno Mendes", "Nordi Mukiele", "El Chadaille Bitshiabu", "Thierno Baldé", "Kaïs Najeh", "Marco Verratti", 
+    "Leandro Paredes", "Fabian Ruiz", "Rafinha", "Danilo Pereira", "Vitinha", "Renato Sanches", "Ander Herrera", "Idrissa Gueye", "Eric Junior Dina-Ebimbe",
+    "Carlos Soler", "Warren Zaïre-Emery", "Ismaël Gharbi", "Nathan Bitumazala", "Kylian Mbappé", "Mauro Icardi", "Neymar", "Pablo Sarabia", "Arnaud Kalimuendo",
+    "Lionel Messi", "Djeidi Gassama", "Sekou Yansané", "Hugo Ekitike"]
+}

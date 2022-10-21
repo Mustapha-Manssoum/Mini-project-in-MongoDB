@@ -1,0 +1,30 @@
+{
+    "nom":"Real Madrid",
+    "couleurs": ["blanc"],
+    "stade": "Stade Santiago Bernabéu",
+    "effectifs": [
+        "Courtois Thibaut",
+        "Lunin Andriy",
+        "Carvajal Daniel",
+        "E.Militão Gabriel",
+        "Alaba David",
+        "Vallejo Jesús",
+        "Iglesias José Fernández",
+        "Odriozola Álvaro",
+        "Rüdiger Antonio",
+        "Mendy Ferland",
+        "Kroos Toni",
+        "Modric Luka",
+        "Camavinga Eduardo",
+        "Valverde Federico Santiago",
+        "Vázquez Lucas",
+        "Tchouaméni Aurélien",
+        "Ceballos Daniel",
+        "Hazard Eden",
+        "Benzema Karim",
+        "Asensio Marco",
+        "Paixão de Oliveira Vinícius",
+        "Goes Rodrygo",
+        "Díaz Mejía Mariano"
+    ]
+}

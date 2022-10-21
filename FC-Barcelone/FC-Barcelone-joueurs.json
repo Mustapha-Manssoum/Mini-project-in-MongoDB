@@ -1,0 +1,178 @@
+[
+    {
+        "nom": "ter Stegen",
+        "prenom": "Marc-André",
+        "date de naissance": "30/04/1992",
+        "taille": 187,
+        "poids": 85,
+        "poste": "Gardien de but"
+    },
+    {
+        "nom": "Peña",
+        "prenom": "Iñaki",
+        "date de naissance": "02/03/1999",
+        "taille": 184,
+        "poids": 78,
+        "poste": "Gardien de but"
+    },
+    {
+        "nom": "Bellerín",
+        "prenom": "Héctor",
+        "date de naissance": "19/03/1995",
+        "taille": 178,
+        "poids": 74,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Piqué",
+        "prenom": "Gérard",
+        "date de naissance": "02/02/1987",
+        "taille": 194,
+        "poids": 85,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Araújo",
+        "prenom": "Ronald",
+        "date de naissance": "07/03/1999",
+        "taille": 188,
+        "poids": 79,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Christensen",
+        "prenom": "Andreas",
+        "date de naissance": "10/04/1996",
+        "taille": 187,
+        "poids": 82,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Alonso",
+        "prenom": "Marcos",
+        "date de naissance": "28/12/1990",
+        "taille": 188,
+        "poids": 84,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Alba",
+        "prenom": "Jordi",
+        "date de naissance": "21/03/1989",
+        "taille": 170,
+        "poids": 68,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Kounde",
+        "prenom": "Jules",
+        "date de naissance": "12/11/1998",
+        "taille": 178,
+        "poids": 70,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "García",
+        "prenom": "Eric",
+        "date de naissance": "09/01/2001",
+        "taille": 182,
+        "poids": 76,
+        "poste": "Défenseur"
+    },
+    {
+        "nom": "Busquets",
+        "prenom": "Sergio",
+        "date de naissance": "16/07/1988",
+        "taille": 189,
+        "poids": 76,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "González López",
+        "prenom": "Pedro",
+        "date de naissance": "25/11/2002",
+        "taille": 174,
+        "poids": 60,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Kessie",
+        "prenom": "Franck",
+        "date de naissance": "19/12/1996",
+        "taille": 183,
+        "poids": 74,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Roberto",
+        "prenom": "Sergi",
+        "date de naissance": "07/02/1992",
+        "taille": 178,
+        "poids": 68,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "de Jong",
+        "prenom": "Frenkie",
+        "date de naissance": "12/05/1997",
+        "taille": 180,
+        "poids": 74,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Páez Gavira",
+        "prenom": "Pablo Martin",
+        "date de naissance": "05/08/2004",
+        "taille": 173,
+        "poids": 70,
+        "poste": "Milieu"
+    },
+    {
+        "nom": "Dembélé",
+        "prenom": "Ousmane",
+        "date de naissance": "15/05/1997",
+        "taille": 178,
+        "poids": 67,
+        "poste": "Attaquant"
+    },
+    {
+        "nom": "Lewandowski",
+        "prenom": "Robert",
+        "date de naissance": "21/08/1988",
+        "taille": 185,
+        "poids": 81,
+        "poste": "Attaquant"
+    },
+    {
+        "nom": "Fati",
+        "prenom": "Ansu",
+        "date de naissance": "31/10/2002",
+        "taille": 178,
+        "poids": 66,
+        "poste": "Attaquant"
+    },
+    {
+        "nom": "Torres",
+        "prenom": "Ferran",
+        "date de naissance": "29/02/2000",
+        "taille": 184,
+        "poids": 77,
+        "poste": "Attaquant"
+    },
+    {
+        "nom": "Depay",
+        "prenom": "Memphis",
+        "date de naissance": "13/02/1994",
+        "taille": 176,
+        "poids": 78,
+        "poste": "Attaquant"
+    },
+    {
+        "nom": "Dias Belloli",
+        "prenom": "Raphael",
+        "date de naissance": "14/12/1996",
+        "taille": 176,
+        "poids": 68,
+        "poste": "Attaquant"
+    }
+]

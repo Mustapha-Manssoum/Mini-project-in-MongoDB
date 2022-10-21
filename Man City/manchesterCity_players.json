@@ -1,0 +1,404 @@
+﻿[ 
+  {
+    "nom": "Ortega",
+    "prenom": "Stefan",
+    "date de naissance": "06/11/1992",
+    "taille": 185,
+    "poids": 88,
+    "poste": "Gardien de but"
+  }
+,
+
+  {
+    "nom": "Santana de Moraes",
+    "prenom": "Ederson",
+    "date de naissance":"17/08/1993",
+    "taille": 188,
+    "poids": 86,
+    "poste": "Gardien de but"
+  }
+,
+
+
+
+  {
+    "nom": "Carson",
+    "prenom": "Scott",
+    "date de naissance":"06/11/1992",
+    "taille": 188,
+    "poids": 85,
+    "poste": "Gardien de but"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Porro",
+    "prenom": "Pedro",
+    "date de naissance":"13/09/1999",
+    "taille": 176,
+    "poids": 71,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Ángel Esmorís Tasende",
+    "prenom": "José",
+    "date de naissance": "04/01/1997",
+    "taille": 175,
+    "poids": 69,
+    "poste": "Défenseur"
+  }
+   ,
+
+
+    
+  {
+    "nom": "Walker",
+    "prenom": "Kyle",
+    "date de naissance": "28/05/1990",
+    "taille": 178,
+    "poids": 70,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Dias",
+    "prenom": "Rúben",
+    "date de naissance": "14/05/1997",
+    "taille": 186,
+    "poids": 76,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Stones",
+    "prenom": "John",
+    "date de naissance":"28/05/1994",
+    "taille": 188,
+    "poids": 70,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Aké",
+    "prenom": "Nathan",
+    "date de naissance":"18/02/1995",
+    "taille": 180,
+    "poids": 75,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Cancelo",
+    "prenom": "João",
+    "date de naissance": "27/05/1994",
+    "taille": 182,
+    "poids": 74,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Laporte",
+    "prenom": "Aymeric",
+    "date de naissance":"27/05/1994",
+    "taille": 191,
+    "poids": 86,
+    "poste": "Défenseur"
+  }
+  ,
+
+    
+  {
+    "nom": "Gómez",
+    "prenom": "Sergio",
+    "date de naissance":"04/09/2000",
+    "taille": 171,
+    "poids": 68,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+
+    
+  {
+    "nom": "Akanji",
+    "prenom": "Manuel",
+    "date de naissance":"19/07/1995",
+    "taille": 188,
+    "poids": 89,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "García",
+    "prenom": "Eric",
+    "date de naissance":"09/01/2001",
+    "taille": 182,
+    "poids": 76,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Harwood-Bellis",
+    "prenom": "Taylor",
+    "date de naissance": "30/01/2002",
+    "taille": 188,
+    "poids": 73,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Henry Lewis",
+    "prenom": "Rico",
+    "date de naissance":"21/11/2004",
+    "taille": 175,
+    "poids": 70,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Wilson-Esbrand",
+    "prenom": "Joshua",
+    "date de naissance": "26/12/2002",
+    "taille": 176,
+    "poids": 63,
+    "poste": "Défenseur"
+  }
+  ,
+
+
+
+    
+  {
+    "nom": "Phillips",
+    "prenom": "Kalvin",
+    "date de naissance": "02/12/1995",
+    "taille": 178,
+    "poids": 72,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Gündoğan",
+    "prenom": "İlkay",
+    "date de naissance":"24/10/1990",
+    "taille": 180,
+    "poids": 80,
+    "poste": "Milieu"
+  }
+  ,
+
+
+
+    
+  {
+    "nom": "Nmecha",
+    "prenom": "Felix",
+    "date de naissance":" ",
+    "taille": 188,
+    "poids": 73,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Grealish",
+    "prenom": "Jack",
+    "date de naissance": "10/09/1995",
+    "taille": 175,
+    "poids": 68,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Hernández Cascante",
+    "prenom": "Rodri",
+    "date de naissance": "22/06/1996",
+    "taille": 191,
+    "poids": 82,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "De Bruyne",
+    "prenom": "Kevin",
+    "date de naissance":"28/06/1991",
+    "taille": 181,
+    "poids": 68,
+    "poste": "Milieu"
+  }
+  ,
+
+    
+  {
+    "nom": "Silva",
+    "prenom": "Bernardo",
+    "date de naissance":"10/08/1994",
+    "taille": 173,
+    "poids": 64,
+    "poste": "Milieu"
+  }
+  ,
+
+
+
+    
+  {
+    "nom": "Phil",
+    "prenom": "Foden",
+    "date de naissance": "28/05/2000",
+    "taille": 171,
+    "poids": 70,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Doyle",
+    "prenom": "Thomas",
+    "date de naissance":"17/10/2001",
+    "taille": 172,
+    "poids": 73,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Palmer",
+    "prenom": "Cole",
+    "date de naissance": "06/05/2002",
+    "taille": 182,
+    "poids": 74,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Leo Knight",
+    "prenom": "Benjamin",
+    "date de naissance": "14/06/2002",
+    "taille": 171,
+    "poids": 61,
+    "poste": "Milieu"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Nmecha",
+    "prenom": "Lukas",
+    "date de naissance": "14/12/1998",
+    "taille": 185,
+    "poids": 80,
+    "poste": "Attaquant"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Poveda",
+    "prenom": "Ian",
+    "date de naissance":"09/02/2000",
+    "taille": 156,
+    "poids": 62,
+    "poste": "Attaquant"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Braut Haaland",
+    "prenom": "Erling",
+    "date de naissance": "21/07/2000",
+    "taille": 194,
+    "poids": 90,
+    "poste": "Attaquant"
+  }
+  ,
+
+
+    
+  {
+    "nom": "Álvarez",
+    "prenom": "Julián",
+    "date de naissance":"31/01/2000",
+    "taille": 170,
+    "poids": 71,
+    "poste": "Attaquant"
+  }
+  ,
+
+
+
+  {
+    "nom": "Mahrez",
+    "prenom": "Riyad",
+    "date de naissance":"21/02/1991",
+    "taille": 179,
+    "poids": 67,
+    "poste": "Attaquant"
+  }
+  ,
+  {
+    "nom": "Delap",
+    "prenom": "Liam",
+    "date de naissance": "08/02/2003",
+    "taille": 186,
+    "poids": 72,
+    "poste": "Attaquant"
+  }
+
+]
